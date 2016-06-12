@@ -1,0 +1,1 @@
+This simple Snake game was intended initially to practice the usage of javax.swing.Timer class, and not to be impressive with graphics.
